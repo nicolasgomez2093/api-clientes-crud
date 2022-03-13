@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nicolas Gomez",
+      "empresa": "Cactus Shop",
+      "email": "nico@gmail.com",
+      "telefono": "154334245",
+      "notas": "Referenciado",
+      "id": 1
+    },
+    {
+      "nombre": "Cecilia",
+      "empresa": "Miscelaneas",
+      "email": "miscelas@gmail.com",
+      "telefono": "3814745567",
+      "notas": "50 souvenirs para el dia 25 de marzo",
+      "id": 2
+    }
+  ]
+}
